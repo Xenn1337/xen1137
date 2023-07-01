@@ -9,7 +9,7 @@
 - <a href="https://youtube.com/@Gl0Ckz">YouTube</a>
 - <a href="https://t.me/niggabooty">Telegram</a>
 
-<h2> // revshit </h2>
+<h2> // Nudos </h2>
 <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua"/>
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "python"/>
 <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt = "c"/>
