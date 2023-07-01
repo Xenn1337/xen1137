@@ -1,9 +1,3 @@
-<p align = center >
-  <img src="https://cdn.discordapp.com/attachments/1067823764869480590/1100596105596641290/New_Project.png">
-</p>
-
-<div>
-<img align="right" width="400" alt="Devy" src="https://media.discordapp.net/attachments/1000261872827768872/1100596752068919368/d2a0975e5f0b77805ac122c36eaec671.jpg"/>
 
 <h2> // about-me </h2>
 
@@ -15,7 +9,7 @@
 - <a href="https://youtube.com/@Gl0Ckz">YouTube</a>
 - <a href="https://t.me/niggabooty">Telegram</a>
 
-<h2> // revshit </h2>
+<h2> // Nudos </h2>
 <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua"/>
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "python"/>
 <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt = "c"/>
@@ -33,7 +27,6 @@
 <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react"/>
 <img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind"/>
 <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql"/>
-- <h4> d
 </br></br>
 </div>
 
