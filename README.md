@@ -9,7 +9,7 @@
 - <a href="https://youtube.com/@Gl0Ckz">YouTube</a>
 - <a href="https://t.me/niggabooty">Telegram</a>
 
-<h2> // Nudos </h2>
+<h2> // revshit </h2>
 <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua"/>
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "python"/>
 <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt = "c"/>
@@ -27,6 +27,7 @@
 <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react"/>
 <img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind"/>
 <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql"/>
+- <h4> 
 </br></br>
 </div>
 
